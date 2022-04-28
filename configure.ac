@@ -25,7 +25,7 @@
 AC_PREREQ([2.69])
 AC_INIT([skel], [0.1.0], [bugs@kara-online.net], [skel], [https://github.com/Kara1147/autoconf-skel])
 
-m4_include([ax_valgrind_check.m4])
+m4_include([m4/ax_valgrind_check.m4])
 
 AC_ARG_ENABLE(debug,
   [AS_HELP_STRING([--enable-debug], [Enable debug messages (default is no)])],
