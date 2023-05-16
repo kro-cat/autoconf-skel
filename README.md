@@ -3,7 +3,7 @@ autoconf skeleton for my projects
 
 ## Usage
 ```bash
-git clone https://github.com/Kara1147/autoconf-skel.git myrepo-name
+git clone https://github.com/kro-cat/autoconf-skel.git myrepo-name
 cd myrepo-name
 rm -rf .git
 git init

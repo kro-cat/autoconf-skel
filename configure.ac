@@ -23,7 +23,7 @@
 #  
 
 AC_PREREQ([2.69])
-AC_INIT([skel], [0.1.0], [bugs@kara-online.net], [skel], [https://github.com/Kara1147/autoconf-skel])
+AC_INIT([autoconf-skel], [0.1.0], [bugs@kara-online.net], [autoconf-skel], [https://github.com/kro-cat/autoconf-skel])
 
 m4_include([m4/ax_valgrind_check.m4])
 
